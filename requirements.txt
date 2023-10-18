@@ -1,0 +1,8 @@
+numpy
+tqdm
+tensorboard
+ml-collections
+scipy
+opencv-python
+matplotlib
+scikit-image
